@@ -1,0 +1,624 @@
+[17:45:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:45:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:45:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:45:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:45:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:45:28] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[17:45:28] [Server thread/INFO]: Loading properties
+[17:45:28] [Server thread/INFO]: Default game type: SURVIVAL
+[17:45:28] [Server thread/INFO]: Generating keypair
+[17:45:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:45:29] [Server thread/INFO]: Using default channel type
+[17:45:30] [Server thread/INFO]: Preparing level "world"
+[17:45:31] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[17:45:31] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:46:18] [User Authenticator #1/INFO]: UUID of player Rafity is 98f49c24-5110-402f-b0e8-69d348bfa4d4
+[17:46:19] [User Authenticator #2/INFO]: UUID of player GJVIRGO is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[17:46:25] [Server thread/INFO]: Loaded 6 recipes
+[17:46:26] [Server thread/INFO]: Loaded 825 advancements
+[17:46:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:46:48] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:46:48] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:46:48] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:46:49] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:46:49] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:46:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:46:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:46:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:46:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:46:52] [Server-Worker-3/INFO]: Preparing spawn area: 1%
+[17:46:52] [Server-Worker-3/INFO]: Preparing spawn area: 2%
+[17:46:53] [Server-Worker-2/INFO]: Preparing spawn area: 3%
+[17:46:53] [Server-Worker-3/INFO]: Preparing spawn area: 3%
+[17:46:54] [Server-Worker-1/INFO]: Preparing spawn area: 5%
+[17:46:54] [Server-Worker-1/INFO]: Preparing spawn area: 5%
+[17:46:55] [Server-Worker-2/INFO]: Preparing spawn area: 6%
+[17:46:55] [Server-Worker-3/INFO]: Preparing spawn area: 7%
+[17:46:56] [Server-Worker-1/INFO]: Preparing spawn area: 8%
+[17:46:56] [Server-Worker-2/INFO]: Preparing spawn area: 9%
+[17:46:57] [Server-Worker-2/INFO]: Preparing spawn area: 10%
+[17:46:57] [Server-Worker-1/INFO]: Preparing spawn area: 11%
+[17:46:58] [Server-Worker-3/INFO]: Preparing spawn area: 12%
+[17:46:58] [Server-Worker-2/INFO]: Preparing spawn area: 13%
+[17:46:59] [Server-Worker-3/INFO]: Preparing spawn area: 14%
+[17:46:59] [Server-Worker-2/INFO]: Preparing spawn area: 15%
+[17:47:00] [Server-Worker-3/INFO]: Preparing spawn area: 16%
+[17:47:00] [Server-Worker-3/INFO]: Preparing spawn area: 17%
+[17:47:01] [Server-Worker-1/INFO]: Preparing spawn area: 17%
+[17:47:01] [Server-Worker-1/INFO]: Preparing spawn area: 17%
+[17:47:02] [Server-Worker-1/INFO]: Preparing spawn area: 17%
+[17:47:02] [Server-Worker-3/INFO]: Preparing spawn area: 20%
+[17:47:03] [Server-Worker-3/INFO]: Preparing spawn area: 21%
+[17:47:03] [Server-Worker-2/INFO]: Preparing spawn area: 22%
+[17:47:04] [Server-Worker-3/INFO]: Preparing spawn area: 23%
+[17:47:04] [Server-Worker-1/INFO]: Preparing spawn area: 24%
+[17:47:05] [Server-Worker-3/INFO]: Preparing spawn area: 25%
+[17:47:05] [Server-Worker-3/INFO]: Preparing spawn area: 26%
+[17:47:06] [Server-Worker-1/INFO]: Preparing spawn area: 26%
+[17:47:06] [Server-Worker-1/INFO]: Preparing spawn area: 26%
+[17:47:07] [Server-Worker-3/INFO]: Preparing spawn area: 26%
+[17:47:07] [Server-Worker-2/INFO]: Preparing spawn area: 30%
+[17:47:08] [Server-Worker-2/INFO]: Preparing spawn area: 31%
+[17:47:08] [Server-Worker-2/INFO]: Preparing spawn area: 32%
+[17:47:09] [Server-Worker-1/INFO]: Preparing spawn area: 33%
+[17:47:09] [Server-Worker-3/INFO]: Preparing spawn area: 34%
+[17:47:11] [Server-Worker-3/INFO]: Preparing spawn area: 34%
+[17:47:11] [Server-Worker-2/INFO]: Preparing spawn area: 34%
+[17:47:11] [Server-Worker-2/INFO]: Preparing spawn area: 34%
+[17:47:11] [Server-Worker-3/INFO]: Preparing spawn area: 34%
+[17:47:12] [Server-Worker-3/INFO]: Preparing spawn area: 34%
+[17:47:12] [Server-Worker-2/INFO]: Preparing spawn area: 39%
+[17:47:13] [Server-Worker-1/INFO]: Preparing spawn area: 41%
+[17:47:13] [Server-Worker-1/INFO]: Preparing spawn area: 42%
+[17:47:14] [Server-Worker-3/INFO]: Preparing spawn area: 43%
+[17:47:14] [Server-Worker-2/INFO]: Preparing spawn area: 44%
+[17:47:15] [Server-Worker-2/INFO]: Preparing spawn area: 45%
+[17:47:15] [Server-Worker-2/INFO]: Preparing spawn area: 45%
+[17:47:16] [Server-Worker-2/INFO]: Preparing spawn area: 45%
+[17:47:16] [Server-Worker-1/INFO]: Preparing spawn area: 45%
+[17:47:17] [Server-Worker-1/INFO]: Preparing spawn area: 45%
+[17:47:17] [Server-Worker-1/INFO]: Preparing spawn area: 49%
+[17:47:18] [Server-Worker-2/INFO]: Preparing spawn area: 51%
+[17:47:18] [Server-Worker-3/INFO]: Preparing spawn area: 51%
+[17:47:19] [Server-Worker-2/INFO]: Preparing spawn area: 53%
+[17:47:19] [Server-Worker-3/INFO]: Preparing spawn area: 54%
+[17:47:20] [Server-Worker-3/INFO]: Preparing spawn area: 55%
+[17:47:20] [Server-Worker-2/INFO]: Preparing spawn area: 55%
+[17:47:22] [Server-Worker-3/INFO]: Preparing spawn area: 56%
+[17:47:22] [Server-Worker-3/INFO]: Preparing spawn area: 56%
+[17:47:22] [Server-Worker-3/INFO]: Preparing spawn area: 56%
+[17:47:22] [Server-Worker-1/INFO]: Preparing spawn area: 59%
+[17:47:23] [Server-Worker-3/INFO]: Preparing spawn area: 60%
+[17:47:23] [Server-Worker-1/INFO]: Preparing spawn area: 61%
+[17:47:24] [Server-Worker-3/INFO]: Preparing spawn area: 63%
+[17:47:24] [Server-Worker-3/INFO]: Preparing spawn area: 64%
+[17:47:25] [Server-Worker-2/INFO]: Preparing spawn area: 65%
+[17:47:25] [Server-Worker-1/INFO]: Preparing spawn area: 66%
+[17:47:26] [Server-Worker-1/INFO]: Preparing spawn area: 67%
+[17:47:26] [Server-Worker-2/INFO]: Preparing spawn area: 68%
+[17:47:27] [Server-Worker-1/INFO]: Preparing spawn area: 69%
+[17:47:27] [Server-Worker-1/INFO]: Preparing spawn area: 70%
+[17:47:28] [Server-Worker-2/INFO]: Preparing spawn area: 71%
+[17:47:28] [Server-Worker-3/INFO]: Preparing spawn area: 71%
+[17:47:29] [Server-Worker-2/INFO]: Preparing spawn area: 72%
+[17:47:29] [Server-Worker-3/INFO]: Preparing spawn area: 73%
+[17:47:30] [Server-Worker-3/INFO]: Preparing spawn area: 74%
+[17:47:30] [Server-Worker-2/INFO]: Preparing spawn area: 76%
+[17:47:31] [Server-Worker-3/INFO]: Preparing spawn area: 77%
+[17:47:31] [Server-Worker-2/INFO]: Preparing spawn area: 78%
+[17:47:32] [Server-Worker-2/INFO]: Preparing spawn area: 80%
+[17:47:32] [Server-Worker-2/INFO]: Preparing spawn area: 81%
+[17:47:33] [Server-Worker-1/INFO]: Preparing spawn area: 82%
+[17:47:33] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[17:47:34] [Server-Worker-2/INFO]: Preparing spawn area: 84%
+[17:47:34] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[17:47:35] [Server-Worker-1/INFO]: Preparing spawn area: 86%
+[17:47:35] [Server-Worker-3/INFO]: Preparing spawn area: 87%
+[17:47:36] [Server-Worker-3/INFO]: Preparing spawn area: 88%
+[17:47:36] [Server-Worker-1/INFO]: Preparing spawn area: 88%
+[17:47:37] [Server-Worker-3/INFO]: Preparing spawn area: 90%
+[17:47:37] [Server-Worker-2/INFO]: Preparing spawn area: 91%
+[17:47:38] [Server-Worker-2/INFO]: Preparing spawn area: 93%
+[17:47:38] [Server-Worker-2/INFO]: Preparing spawn area: 94%
+[17:47:39] [Server-Worker-3/INFO]: Preparing spawn area: 95%
+[17:47:40] [Server-Worker-3/INFO]: Preparing spawn area: 96%
+[17:47:40] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[17:47:40] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[17:47:40] [Server thread/INFO]: Time elapsed: 53072 ms
+[17:47:40] [Server thread/INFO]: Done (130.028s)! For help, type "help"
+[17:47:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@166d2d2[id=98f49c24-5110-402f-b0e8-69d348bfa4d4,name=Rafity,properties={textures=[com.mojang.authlib.properties.Property@1cf3944]},legacy=false] (/192.168.1.196:60866) lost connection: Disconnected
+[17:47:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@da6afe[id=ee09e6a5-35a8-4445-8345-acef5ced0a01,name=GJVIRGO,properties={textures=[com.mojang.authlib.properties.Property@15bae1a]},legacy=false] (/192.168.2.1:59472) lost connection: Disconnected
+[17:47:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[17:48:02] [User Authenticator #3/INFO]: UUID of player GJVIRGO is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[17:48:02] [Server thread/INFO]: GJVIRGO[/192.168.2.1:59476] logged in with entity id 161 at (196.5, 63.0, 196.5)
+[17:48:02] [Server thread/INFO]: GJVIRGO joined the game
+[17:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[17:48:20] [User Authenticator #4/INFO]: UUID of player CapMe is 5469174f-a834-441c-84d3-2f04717385b3
+[17:48:21] [Server thread/INFO]: CapMe[/192.168.1.206:55894] logged in with entity id 288 at (200.5, 63.0, 200.5)
+[17:48:21] [Server thread/INFO]: CapMe joined the game
+[17:48:38] [User Authenticator #5/INFO]: UUID of player Rafity is 98f49c24-5110-402f-b0e8-69d348bfa4d4
+[17:48:38] [Server thread/INFO]: Rafity[/192.168.1.196:60880] logged in with entity id 296 at (194.5, 63.0, 199.5)
+[17:48:38] [Server thread/INFO]: Rafity joined the game
+[17:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[17:48:45] [Server thread/INFO]: <GJVIRGO> I've turned off all cheats even for me.
+[17:48:52] [Server thread/INFO]: <Rafity> good
+[17:48:54] [Server thread/INFO]: <GJVIRGO> Now let's do proper survival.
+[17:49:17] [Server thread/INFO]: <Rafity> u wanna find a starting village
+[17:49:26] [Server thread/INFO]: <GJVIRGO> No
+[17:49:32] [Server thread/INFO]: <Rafity> k then
+[17:49:35] [Server thread/INFO]: <GJVIRGO> Let's just do it the normal way for now
+[17:49:42] [Server thread/INFO]: <GJVIRGO> Who's going to start the mine.
+[17:50:03] [Server thread/INFO]: <Rafity> im on it
+[17:50:10] [Server thread/INFO]: <GJVIRGO> Okay, Pascal is going to be the one who cuts down all the trees.
+[17:50:21] [Server thread/INFO]: <GJVIRGO> Every single one. So we don't need wood for ages.
+[17:50:24] [Server thread/INFO]: Rafity has made the advancement [Stone Age]
+[17:50:35] [Server thread/INFO]: <CapMe> need 3 cobble stone
+[17:50:37] [Server thread/INFO]: <GJVIRGO> Boggle you can mine with me but also hunt.
+[17:50:43] [Server thread/INFO]: <Rafity> here
+[17:50:57] [Server thread/INFO]: GJVIRGO has made the advancement [Stone Age]
+[17:51:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[17:51:01] [Server thread/WARN]: Skipping Entity with id 
+[17:51:19] [Server thread/INFO]: CapMe has made the advancement [Stone Age]
+[17:51:39] [Server thread/INFO]: <CapMe> wolf
+[17:51:52] [Server thread/INFO]: <GJVIRGO> Boggle, go and get the wolf
+[17:51:53] [Server thread/INFO]: Rafity has made the advancement [Getting an Upgrade]
+[17:51:55] [Server thread/INFO]: <GJVIRGO> You're the animal guy.
+[17:51:58] [Server thread/INFO]: <Rafity> k
+[17:52:16] [Server thread/INFO]: <GJVIRGO> Need to leave for one sec.
+[17:52:17] [Server thread/INFO]: GJVIRGO lost connection: Disconnected
+[17:52:17] [Server thread/INFO]: GJVIRGO left the game
+[17:52:53] [Server thread/INFO]: <Rafity> got the dog in the mine
+[17:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[17:53:00] [Server thread/INFO]: <Rafity> ill we get more bones
+[17:53:09] [User Authenticator #6/INFO]: UUID of player GJVIRGO is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[17:53:09] [Server thread/INFO]: GJVIRGO[/192.168.1.220:59505] logged in with entity id 946 at (186.4309946536987, 64.0, 199.9480264607194)
+[17:53:09] [Server thread/INFO]: GJVIRGO joined the game
+[17:53:14] [Server thread/INFO]: <Rafity> got the dog in the mine
+[17:53:16] [Server thread/INFO]: <Rafity> ill we get more bones
+[17:53:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[17:55:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[17:55:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[17:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
+[17:56:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
+[17:57:28] [Server thread/INFO]: Rafity has made the advancement [A Seedy Place]
+[17:57:45] [Server thread/INFO]: GJVIRGO has made the advancement [Getting an Upgrade]
+[17:58:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
+[17:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[17:58:49] [Server thread/WARN]: Fetching packet for removed entity avy['Cobblestone'/2277, l='world', x=180.88, y=55.00, z=189.54]
+[18:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6498ms or 129 ticks behind
+[18:00:36] [Server thread/INFO]: Rafity has made the advancement [Monster Hunter]
+[18:00:55] [Server thread/INFO]: CapMe has made the advancement [Monster Hunter]
+[18:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[18:03:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6291ms or 125 ticks behind
+[18:03:29] [Server thread/WARN]: CapMe moved too quickly! 9.867791976610533,-2.0,0.3356558471311786
+[18:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[18:04:19] [Server thread/INFO]: CapMe was shot by Skeleton
+[18:04:22] [Server thread/INFO]: <GJVIRGO> 183, 64, 198
+[18:04:41] [Server thread/INFO]: GJVIRGO has made the advancement [Acquire Hardware]
+[18:04:52] [Server thread/INFO]: GJVIRGO has made the advancement [Isn't It Iron Pick]
+[18:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[18:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5621ms or 112 ticks behind
+[18:05:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3959ms or 79 ticks behind
+[18:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[18:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[18:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4394ms or 87 ticks behind
+[18:06:45] [Server thread/INFO]: Rafity was slain by Zombie
+[18:06:53] [Server thread/INFO]: CapMe was shot by Skeleton
+[18:06:58] [Server thread/INFO]: Rafity lost connection: Timed out
+[18:06:58] [Server thread/INFO]: Rafity left the game
+[18:06:59] [Server thread/WARN]: handleDisconnection() called twice
+[18:07:29] [User Authenticator #7/INFO]: UUID of player Rafity is 98f49c24-5110-402f-b0e8-69d348bfa4d4
+[18:07:29] [Server thread/INFO]: Rafity[/192.168.1.196:60911] logged in with entity id 4032 at (84.00075158581376, 69.0, 155.43120471913718)
+[18:07:29] [Server thread/INFO]: Rafity joined the game
+[18:07:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[18:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4858ms or 97 ticks behind
+[18:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[18:08:31] [Server thread/INFO]: CapMe was blown up by Creeper
+[18:08:43] [Server thread/INFO]: Rafity was slain by Zombie
+[18:08:44] [Server thread/INFO]: CapMe lost connection: Timed out
+[18:08:44] [Server thread/INFO]: CapMe left the game
+[18:08:56] [User Authenticator #8/INFO]: UUID of player CapMe is 5469174f-a834-441c-84d3-2f04717385b3
+[18:08:56] [Server thread/INFO]: CapMe[/192.168.1.206:55964] logged in with entity id 4248 at (70.91725650278866, 66.0, 156.6337578852174)
+[18:08:56] [Server thread/INFO]: CapMe joined the game
+[18:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[18:09:13] [Server thread/WARN]: CapMe moved too quickly! -6.2115315396652875,1.0,-8.039644448194878
+[18:09:13] [Server thread/WARN]: GJVIRGO moved too quickly! -6.302581136991989,0.0,7.886531054837576
+[18:09:13] [Server thread/WARN]: Rafity moved too quickly! -10.022715764122523,0.2336320060424839,-0.8658306790133281
+[18:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8779ms or 175 ticks behind
+[18:09:25] [Server thread/INFO]: Rafity has made the advancement [Acquire Hardware]
+[18:11:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:11:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12352ms or 247 ticks behind
+[18:11:43] [Server thread/INFO]: GJVIRGO has made the advancement [Monster Hunter]
+[18:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5587ms or 111 ticks behind
+[18:12:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5192ms or 103 ticks behind
+[18:12:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:12:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[18:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[18:13:29] [Server thread/INFO]: GJVIRGO lost connection: Timed out
+[18:13:29] [Server thread/INFO]: GJVIRGO left the game
+[18:13:29] [Server thread/WARN]: handleDisconnection() called twice
+[18:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4939ms or 98 ticks behind
+[18:14:05] [Server thread/INFO]: CapMe has made the advancement [Acquire Hardware]
+[18:14:05] [User Authenticator #9/INFO]: UUID of player GJVIRGO is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[18:14:06] [Server thread/INFO]: GJVIRGO[/192.168.1.220:59585] logged in with entity id 5333 at (170.80552326589873, 64.0, 185.67218356339419)
+[18:14:06] [Server thread/INFO]: GJVIRGO joined the game
+[18:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:14:16] [Server thread/INFO]: CapMe has made the advancement [Isn't It Iron Pick]
+[18:14:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[18:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6174ms or 123 ticks behind
+[18:14:59] [Server thread/WARN]: GJVIRGO moved too quickly! -9.877522261882007,1.0,-1.8388235065005176
+[18:15:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3708ms or 74 ticks behind
+[18:15:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:16:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[18:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[18:16:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[18:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15253ms or 305 ticks behind
+[18:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7962ms or 159 ticks behind
+[18:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
+[18:18:29] [Server thread/INFO]: Rafity has made the advancement [Isn't It Iron Pick]
+[18:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6957ms or 139 ticks behind
+[18:20:47] [Server thread/WARN]: GJVIRGO moved wrongly!
+[18:21:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[18:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[18:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10473ms or 209 ticks behind
+[18:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[18:22:58] [Server thread/INFO]: <GJVIRGO> 187 186
+[18:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8479ms or 169 ticks behind
+[18:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7763ms or 155 ticks behind
+[18:23:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5440ms or 108 ticks behind
+[18:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4201ms or 84 ticks behind
+[18:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5702ms or 114 ticks behind
+[18:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3181ms or 63 ticks behind
+[18:25:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[18:25:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[18:25:46] [Server thread/INFO]: CapMe has made the advancement [A Seedy Place]
+[18:26:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7885ms or 157 ticks behind
+[18:26:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5134ms or 102 ticks behind
+[18:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5603ms or 112 ticks behind
+[18:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3587ms or 71 ticks behind
+[18:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12101ms or 242 ticks behind
+[18:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[18:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[18:28:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6778ms or 135 ticks behind
+[18:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4100ms or 82 ticks behind
+[18:29:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
+[18:29:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:30:05] [Server thread/INFO]: Rafity lost connection: Timed out
+[18:30:05] [Server thread/INFO]: Rafity left the game
+[18:30:26] [Server thread/INFO]: CapMe has made the advancement [Diamonds!]
+[18:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[18:31:14] [User Authenticator #10/INFO]: UUID of player Rafity is 98f49c24-5110-402f-b0e8-69d348bfa4d4
+[18:31:15] [Server thread/INFO]: Rafity[/192.168.1.196:61098] logged in with entity id 9657 at (107.4268187018668, 57.0, 376.5785206193209)
+[18:31:15] [Server thread/INFO]: Rafity joined the game
+[18:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[18:31:48] [Server thread/INFO]: CapMe lost connection: Timed out
+[18:31:48] [Server thread/INFO]: CapMe left the game
+[18:31:52] [Server thread/INFO]: <GJVIRGO> I'm dying!
+[18:31:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[18:32:07] [Server thread/INFO]: <GJVIRGO> Boggle where are you?
+[18:32:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8146ms or 162 ticks behind
+[18:32:42] [User Authenticator #11/INFO]: UUID of player CapMe is 5469174f-a834-441c-84d3-2f04717385b3
+[18:32:43] [Server thread/INFO]: CapMe[/192.168.1.206:56088] logged in with entity id 10114 at (172.5610359621102, 22.0, 183.30000001192093)
+[18:32:43] [Server thread/INFO]: CapMe joined the game
+[18:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:33:00] [Server thread/INFO]: <GJVIRGO> We really need food Boggle
+[18:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8391ms or 167 ticks behind
+[18:33:10] [Server thread/INFO]: <Rafity> check the wheat
+[18:33:26] [Server thread/INFO]: <Rafity> and u kan kill like 100 animals around u
+[18:33:38] [Server thread/INFO]: <GJVIRGO> There are no animals here..?
+[18:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[18:35:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:35:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[18:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14551ms or 291 ticks behind
+[18:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3328ms or 66 ticks behind
+[18:37:01] [Server thread/INFO]: GJVIRGO lost connection: Timed out
+[18:37:01] [Server thread/INFO]: GJVIRGO left the game
+[18:37:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18:37:29] [User Authenticator #12/INFO]: UUID of player GJVIRGO is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[18:37:30] [Server thread/INFO]: GJVIRGO[/192.168.1.220:59665] logged in with entity id 11501 at (212.13103425140866, 61.816410059867756, 245.0438579086217)
+[18:37:30] [Server thread/INFO]: GJVIRGO joined the game
+[18:37:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4952ms or 99 ticks behind
+[18:37:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3590ms or 71 ticks behind
+[18:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3126ms or 62 ticks behind
+[18:38:41] [Server thread/INFO]: GJVIRGO lost connection: Disconnected
+[18:38:41] [Server thread/INFO]: GJVIRGO left the game
+[18:38:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[18:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5618ms or 112 ticks behind
+[18:39:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18:40:35] [User Authenticator #13/INFO]: UUID of player GJVIRGO is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[18:40:37] [Server thread/INFO]: GJVIRGO[/192.168.1.220:59939] logged in with entity id 12142 at (233.6424102540951, 63.0, 255.24805700322335)
+[18:40:37] [Server thread/INFO]: GJVIRGO joined the game
+[18:40:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18:41:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:41:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8472ms or 169 ticks behind
+[18:42:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4241ms or 84 ticks behind
+[18:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
+[18:43:45] [Server thread/INFO]: Rafity has made the advancement [Diamonds!]
+[18:43:49] [Server thread/INFO]: <Rafity> yesssss
+[18:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4888ms or 97 ticks behind
+[18:45:15] [Server thread/INFO]: <Rafity> coodinates pls
+[18:45:47] [Server thread/INFO]: <Rafity> lava pit
+[18:45:57] [Server thread/INFO]: <Rafity> cum get obsidian
+[18:46:03] [Server thread/INFO]: <Rafity> later
+[18:46:10] [Server thread/INFO]: <Rafity> w
+[18:46:34] [Server thread/WARN]: Fetching packet for removed entity akt['Experience Orb'/13736, l='world', x=185.14, y=63.89, z=195.61]
+[18:46:54] [Server thread/INFO]: CapMe has made the advancement [Hot Stuff]
+[18:46:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[18:47:21] [Server thread/INFO]: <Rafity> coodinates pls
+[18:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[18:47:42] [Server thread/INFO]: <GJVIRGO> 244 62 218
+[18:48:05] [Server thread/INFO]: CapMe has made the advancement [Ice Bucket Challenge]
+[18:49:23] [Server thread/INFO]: Rafity was shot by Skeleton
+[18:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8002ms or 160 ticks behind
+[18:49:38] [Server thread/WARN]: Rafity moved too quickly! -8.960662719775314,-1.431523845270732,4.398498325989323
+[18:49:42] [Server thread/INFO]: <GJVIRGO> No!!
+[18:49:46] [Server thread/INFO]: <GJVIRGO> Where did you die?
+[18:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
+[18:51:48] [Server thread/INFO]: GJVIRGO was blown up by Creeper
+[18:53:02] [Server thread/INFO]: <Rafity> im home
+[18:53:22] [Server thread/INFO]: GJVIRGO was slain by Enderman
+[18:53:35] [Server thread/INFO]: Rafity lost connection: Disconnected
+[18:53:35] [Server thread/INFO]: Rafity left the game
+[18:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7789ms or 155 ticks behind
+[18:55:08] [Server thread/INFO]: CapMe lost connection: Timed out
+[18:55:08] [Server thread/INFO]: CapMe left the game
+[18:55:08] [Server thread/WARN]: handleDisconnection() called twice
+[18:55:31] [User Authenticator #14/INFO]: UUID of player Rafity is 98f49c24-5110-402f-b0e8-69d348bfa4d4
+[18:55:32] [Server thread/INFO]: Rafity[/192.168.1.196:61152] logged in with entity id 15634 at (181.14614450379509, 63.0, 229.4145043059181)
+[18:55:32] [Server thread/INFO]: Rafity joined the game
+[18:55:43] [Server thread/INFO]: <Rafity> ima back
+[18:56:21] [User Authenticator #15/INFO]: UUID of player CapMe is 5469174f-a834-441c-84d3-2f04717385b3
+[18:56:22] [Server thread/INFO]: CapMe[/192.168.1.206:56242] logged in with entity id 15753 at (160.58747123726135, 11.0, 180.89809483689183)
+[18:56:22] [Server thread/INFO]: CapMe joined the game
+[18:56:31] [Server thread/INFO]: <Rafity> aight ima start a aminal farm
+[18:57:00] [Server thread/INFO]: Rafity has made the advancement [Suit Up]
+[18:57:31] [Server thread/INFO]: <CapMe> ru i need tha diamond
+[18:57:40] [Server thread/INFO]: <Rafity> its in the chest
+[18:57:43] [Server thread/INFO]: <Rafity> fatty
+[18:57:51] [Server thread/INFO]: <Rafity> and we need a book
+[18:58:02] [Server thread/INFO]: <Rafity> ill get sugar cane
+[18:58:34] [Server thread/INFO]: <CapMe> i need 1 more diamond
+[18:58:41] [Server thread/INFO]: <Rafity> 4 wat
+[18:58:53] [Server thread/INFO]: <Rafity> were makin a enchanting table
+[18:59:01] [Server thread/INFO]: <Rafity> only one needed
+[18:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5315ms or 106 ticks behind
+[19:00:09] [Server thread/INFO]: GJVIRGO lost connection: Timed out
+[19:00:09] [Server thread/INFO]: GJVIRGO left the game
+[19:00:11] [Server thread/INFO]: <Rafity> got the sugar cane
+[19:00:20] [Server thread/INFO]: <Rafity> plus paper and leather
+[19:00:27] [Server thread/INFO]: <Rafity> i got a book
+[19:00:43] [Server thread/INFO]: <Rafity> now lets make a enchanting table
+[19:00:48] [User Authenticator #16/INFO]: UUID of player GJVIRGO is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[19:00:50] [Server thread/INFO]: GJVIRGO[/192.168.1.220:60009] logged in with entity id 16488 at (168.61051110204707, 64.0, 187.6105240072589)
+[19:00:50] [Server thread/INFO]: GJVIRGO joined the game
+[19:00:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[19:01:19] [Server thread/WARN]: Fetching packet for removed entity avy['Andesite'/16634, l='world', x=154.23, y=8.14, z=168.71]
+[19:02:29] [Server thread/INFO]: <Rafity> book in the chest baby
+[19:02:48] [Server thread/INFO]: <Rafity> anyone seen a wolf
+[19:03:48] [Server thread/INFO]: <GJVIRGO> Boggle, we need some hoppers
+[19:03:59] [Server thread/INFO]: <Rafity> iron in chest
+[19:04:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:04:21] [Server thread/INFO]: <Rafity> got some sheep
+[19:04:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12206ms or 244 ticks behind
+[19:04:33] [Server thread/INFO]: <Rafity> can u make a quick farm 4 me
+[19:05:04] [Server thread/INFO]: <GJVIRGO> Okay
+[19:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5711ms or 114 ticks behind
+[19:06:41] [Server thread/INFO]: <Rafity> carefull gil
+[19:07:22] [Server thread/INFO]: <Rafity> quick farm question mark
+[19:07:28] [Server thread/INFO]: <GJVIRGO> Done
+[19:07:35] [Server thread/INFO]: <CapMe> can i kill them?
+[19:07:39] [Server thread/INFO]: <Rafity> nooo
+[19:07:41] [Server thread/INFO]: <Rafity> u fatty
+[19:07:49] [Server thread/INFO]: <Rafity> wat do u think im doing
+[19:08:02] [Server thread/INFO]: <GJVIRGO> Well done Boggle.
+[19:08:06] [Server thread/INFO]: Rafity has made the advancement [The Parrots and the Bats]
+[19:08:32] [Server thread/INFO]: <Rafity> anybody got shears?
+[19:08:34] [Server thread/INFO]: <GJVIRGO> No
+[19:08:37] [Server thread/INFO]: <Rafity> we need beds
+[19:08:41] [Server thread/INFO]: <GJVIRGO> I think Pascal has Iron
+[19:09:36] [Server thread/INFO]: <GJVIRGO> Boggle put some seeds on that hydrated farm soil
+[19:09:43] [Server thread/INFO]: <Rafity> just did
+[19:09:43] [Server thread/INFO]: <GJVIRGO> Good Boggle.
+[19:09:50] [Server thread/INFO]: <GJVIRGO> I have a bone.
+[19:09:52] [Server thread/INFO]: Rafity has made the advancement [Fishy Business]
+[19:09:57] [Server thread/INFO]: <Rafity> i have 6
+[19:10:05] [Server thread/INFO]: <GJVIRGO> I put it in the chest.
+[19:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5478ms or 109 ticks behind
+[19:10:21] [Server thread/INFO]: <Rafity> well done
+[19:10:21] [Server thread/INFO]: <Rafity> well done
+[19:10:26] [Server thread/INFO]: GJVIRGO has made the advancement [A Seedy Place]
+[19:11:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[19:11:28] [Server thread/INFO]: <CapMe> can make beds
+[19:11:29] [Server thread/INFO]: GJVIRGO was slain by Zombie
+[19:11:32] [Server thread/WARN]: GJVIRGO moved wrongly!
+[19:12:21] [Server thread/INFO]: Rafity lost connection: Timed out
+[19:12:21] [Server thread/INFO]: Rafity left the game
+[19:12:36] [Server thread/INFO]: CapMe has made the advancement [Sweet Dreams]
+[19:13:06] [Server thread/INFO]: GJVIRGO has made the advancement [Sweet Dreams]
+[19:13:10] [Server thread/INFO]: <GJVIRGO> Sleepo
+[19:13:32] [User Authenticator #17/INFO]: UUID of player Rafity is 98f49c24-5110-402f-b0e8-69d348bfa4d4
+[19:13:33] [Server thread/INFO]: Rafity[/192.168.1.196:61192] logged in with entity id 19026 at (190.29982732739927, 63.0, 217.2997987194819)
+[19:13:33] [Server thread/INFO]: Rafity joined the game
+[19:13:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:14:47] [Server thread/INFO]: CapMe hit the ground too hard
+[19:14:52] [Server thread/INFO]: <Rafity> lol
+[19:14:59] [Server thread/INFO]: <Rafity> ur trash kid
+[19:15:08] [Server thread/INFO]: <CapMe> i tried to die k
+[19:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5201ms or 104 ticks behind
+[19:15:30] [Server thread/WARN]: CapMe moved too quickly! -9.905914344951839,1.0,-2.1949452495300648
+[19:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7275ms or 145 ticks behind
+[19:16:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6289ms or 125 ticks behind
+[19:18:00] [Server thread/INFO]: CapMe lost connection: Timed out
+[19:18:00] [Server thread/INFO]: CapMe left the game
+[19:18:10] [Server thread/INFO]: <Rafity> y did he leave
+[19:18:14] [Server thread/INFO]: <GJVIRGO> Timed out
+[19:19:33] [User Authenticator #18/INFO]: UUID of player CapMe is 5469174f-a834-441c-84d3-2f04717385b3
+[19:19:34] [Server thread/INFO]: CapMe[/192.168.1.206:56331] logged in with entity id 20401 at (92.82120418466992, 67.92159999847412, 48.60533974920084)
+[19:19:34] [Server thread/INFO]: CapMe joined the game
+[19:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[19:19:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6573ms or 131 ticks behind
+[19:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4834ms or 96 ticks behind
+[19:20:56] [Server thread/INFO]: <Rafity> saddle
+[19:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5099ms or 101 ticks behind
+[19:21:06] [Server thread/INFO]: <GJVIRGO> We don't need two crafting tables?
+[19:21:16] [Server thread/INFO]: <GJVIRGO> We don't need two crafting tables?
+[19:21:24] [Server thread/INFO]: <GJVIRGO> We don't need two crafting tables?
+[19:21:40] [Server thread/INFO]: <Rafity> anybody have string?
+[19:21:45] [Server thread/INFO]: <GJVIRGO> Yeah
+[19:21:50] [Server thread/INFO]: <Rafity> pass
+[19:23:07] [Server thread/INFO]: GJVIRGO lost connection: Timed out
+[19:23:07] [Server thread/INFO]: GJVIRGO left the game
+[19:23:28] [User Authenticator #19/INFO]: UUID of player GJVIRGO is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[19:23:29] [Server thread/INFO]: GJVIRGO[/86.188.13.149:60081] logged in with entity id 21238 at (172.30000001192093, 64.0, 195.33513548950145)
+[19:23:29] [Server thread/INFO]: GJVIRGO joined the game
+[19:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:23:49] [Server thread/INFO]: <GJVIRGO> I just joined by minecraft.gilbertvirgo.com
+[19:23:53] [Server thread/INFO]: <GJVIRGO> And it worked..
+[19:24:01] [Server thread/INFO]: <Rafity> whoopeee
+[19:24:54] [Server thread/INFO]: <Rafity> sleep sleep
+[19:25:30] [Server thread/INFO]: Rafity has made the advancement [Sweet Dreams]
+[19:25:34] [Server thread/WARN]: Rafity was kicked for floating too long!
+[19:25:34] [Server thread/INFO]: Rafity lost connection: Flying is not enabled on this server
+[19:25:34] [Server thread/INFO]: Rafity left the game
+[19:25:35] [Server thread/INFO]: <CapMe> sleep sleep
+[19:25:44] [Server thread/INFO]: <GJVIRGO> Sweeto
+[19:25:48] [Server thread/INFO]: <GJVIRGO> Thanks bro
+[19:25:48] [User Authenticator #20/INFO]: UUID of player Rafity is 98f49c24-5110-402f-b0e8-69d348bfa4d4
+[19:25:49] [Server thread/INFO]: Rafity[/192.168.1.196:61199] logged in with entity id 21514 at (179.29999997466803, 64.0000002, 196.29999997466803)
+[19:25:49] [Server thread/INFO]: Rafity joined the game
+[19:25:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[19:26:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3640ms or 72 ticks behind
+[19:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:30:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:31:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3899ms or 77 ticks behind
+[19:31:26] [Server thread/WARN]: Rafity moved wrongly!
+[19:31:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7516ms or 150 ticks behind
+[19:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[19:32:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[19:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[19:33:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3003ms or 60 ticks behind
+[19:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8513ms or 170 ticks behind
+[19:34:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5282ms or 105 ticks behind
+[19:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[19:35:06] [Server thread/INFO]: Rafity lost connection: Timed out
+[19:35:06] [Server thread/INFO]: Rafity left the game
+[19:35:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:36:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@6b7dda[id=<null>,name=Rafity,properties={},legacy=false] (/192.168.1.196:61222) lost connection: Disconnected
+[19:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6029ms or 120 ticks behind
+[19:37:35] [User Authenticator #21/INFO]: UUID of player Rafity is 98f49c24-5110-402f-b0e8-69d348bfa4d4
+[19:37:37] [Server thread/INFO]: Rafity[/192.168.1.196:61234] logged in with entity id 24487 at (181.9350702491816, 64.0, 203.70191112296564)
+[19:37:37] [Server thread/INFO]: Rafity joined the game
+[19:37:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[19:38:04] [Server thread/INFO]: <CapMe> sleep sleep
+[19:38:26] [Server thread/INFO]: <GJVIRGO> Come
+[19:38:34] [Server thread/INFO]: <GJVIRGO> Boggle come to sleep.
+[19:38:38] [Server thread/INFO]: <GJVIRGO> Boggle!
+[19:38:42] [Server thread/INFO]: <Rafity> k
+[19:40:53] [Server thread/INFO]: CapMe lost connection: Disconnected
+[19:40:53] [Server thread/INFO]: CapMe left the game
+[19:40:58] [User Authenticator #22/INFO]: UUID of player CapMe is 5469174f-a834-441c-84d3-2f04717385b3
+[19:41:00] [Server thread/INFO]: CapMe[/192.168.1.206:56473] logged in with entity id 24948 at (178.72853429776228, 64.0, 199.98119222730432)
+[19:41:00] [Server thread/INFO]: CapMe joined the game
+[19:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4800ms or 96 ticks behind
+[19:42:45] [Server thread/INFO]: <GJVIRGO> Boggle how's the food coming along?
+[19:42:54] [Server thread/INFO]: <GJVIRGO> I'm so hungry.
+[19:42:55] [Server thread/INFO]: <Rafity> look in the furnaces
+[19:43:54] [Server thread/INFO]: <Rafity> shields!
+[19:44:02] [Server thread/INFO]: <Rafity> who wants them
+[19:44:40] [Server thread/INFO]: <GJVIRGO> Boggle can I have a shield please?
+[19:44:48] [Server thread/INFO]: <Rafity> ye
+[19:44:53] [Server thread/INFO]: <GJVIRGO> Cheers
+[19:45:18] [Server thread/INFO]: <Rafity> i got a saddle 2
+[19:45:29] [Server thread/INFO]: <Rafity> knight in shining armor
+[19:45:41] [Server thread/INFO]: <GJVIRGO> Can you make us some armour too?
+[19:45:45] [Server thread/INFO]: <Rafity> k
+[19:46:02] [Server thread/INFO]: <Rafity> pascal has all the iron
+[19:46:13] [Server thread/INFO]: <Rafity> finish the house bro
+[19:46:54] [Server thread/INFO]: <Rafity> u wanna get some coal somemone
+[19:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
+[19:48:34] [Server thread/INFO]: <GJVIRGO> Boggle can you move the farm closer to the water please?
+[19:48:41] [Server thread/INFO]: <GJVIRGO> Part of the house is going to be here.
+[19:48:43] [Server thread/INFO]: <Rafity> k
+[19:48:47] [Server thread/INFO]: <GJVIRGO> Thanks.
+[19:48:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[19:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10011ms or 200 ticks behind
+[19:49:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8550ms or 171 ticks behind
+[19:49:54] [Server thread/INFO]: <Rafity> sleep sleep
+[19:49:59] [Server thread/WARN]: Rafity was kicked for floating too long!
+[19:49:59] [Server thread/INFO]: Rafity lost connection: Flying is not enabled on this server
+[19:49:59] [Server thread/INFO]: Rafity left the game
+[19:50:10] [User Authenticator #23/INFO]: UUID of player Rafity is 98f49c24-5110-402f-b0e8-69d348bfa4d4
+[19:50:11] [Server thread/INFO]: Rafity[/192.168.1.196:61242] logged in with entity id 26657 at (179.29999997466803, 64.0000002, 196.29999997466803)
+[19:50:11] [Server thread/INFO]: Rafity joined the game
+[19:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
+[19:50:20] [Server thread/INFO]: <GJVIRGO> Let's go boys
+[19:50:22] [Server thread/INFO]: <GJVIRGO> Beddy byes
+[19:50:30] [Server thread/INFO]: <GJVIRGO> Quock!
+[19:50:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:50:31] [Server thread/INFO]: <Rafity> nighty nighty
+[19:50:37] [Server thread/INFO]: <GJVIRGO> Pascal.
+[19:50:42] [Server thread/INFO]: <Rafity> pascalll
+[19:50:46] [Server thread/INFO]: <Rafity> come
+[19:50:57] [Server thread/INFO]: <GJVIRGO> He's coming
+[19:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:51:43] [Server thread/INFO]: <Rafity> come on
+[19:51:58] [Server thread/INFO]: <Rafity> come on
+[19:52:26] [Server thread/INFO]: CapMe has made the advancement [Not Today, Thank You]
+[19:52:35] [Server thread/INFO]: <Rafity> come onnnnn\
+[19:52:45] [Server thread/INFO]: <Rafity> hurry up
+[19:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6671ms or 133 ticks behind
+[19:52:56] [Server thread/INFO]: <GJVIRGO> He's near now
+[19:53:02] [Server thread/INFO]: <Rafity> hurry
+[19:53:05] [Server thread/INFO]: <GJVIRGO> Just across the lake.
+[19:53:08] [Server thread/INFO]: <Rafity> come onnnn
+[19:53:12] [Server thread/INFO]: <Rafity> ur so long
+[19:53:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4112ms or 82 ticks behind
+[19:53:18] [Server thread/INFO]: <GJVIRGO> He's like 1 chunk away
+[19:53:24] [Server thread/INFO]: <Rafity> sigh
+[19:53:30] [Server thread/INFO]: <Rafity> hurry up!!!!
+[19:53:53] [Server thread/INFO]: GJVIRGO lost connection: Disconnected
+[19:53:53] [Server thread/INFO]: GJVIRGO left the game
+[19:53:57] [Server thread/INFO]: <CapMe> u were on my bed
+[19:54:03] [Server thread/INFO]: CapMe lost connection: Disconnected
+[19:54:03] [Server thread/INFO]: CapMe left the game
+[19:54:09] [Server thread/INFO]: <Rafity> come down
+[19:54:13] [Server thread/INFO]: <Rafity> come down
+[19:54:17] [Server thread/INFO]: <Rafity> come down
+[19:54:19] [Server thread/INFO]: <Rafity> come down
+[19:54:19] [Server thread/INFO]: <Rafity> come down
+[19:54:20] [Server thread/INFO]: <Rafity> come down
+[19:54:21] [Server thread/INFO]: <Rafity> come down
+[19:54:22] [Server thread/INFO]: <Rafity> come down
+[19:54:22] [Server thread/INFO]: <Rafity> come down
+[19:54:23] [Server thread/INFO]: <Rafity> come down
+[19:54:24] [Server thread/INFO]: <Rafity> come down
+[19:54:25] [Server thread/INFO]: <Rafity> come down
+[19:54:26] [Server thread/INFO]: <Rafity> come down
+[19:54:28] [Server thread/INFO]: Rafity lost connection: Disconnected
+[19:54:28] [Server thread/INFO]: Rafity left the game
+[19:57:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4687ms or 93 ticks behind
+[20:49:04] [User Authenticator #24/INFO]: UUID of player GJVIRGO is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[20:49:06] [Server thread/INFO]: GJVIRGO[/86.188.13.149:60455] logged in with entity id 27479 at (181.87762014908733, 64.0, 188.60096077388894)
+[20:49:06] [Server thread/INFO]: GJVIRGO joined the game
+[20:49:11] [Server thread/INFO]: GJVIRGO lost connection: Disconnected
+[20:49:11] [Server thread/INFO]: GJVIRGO left the game
+[20:54:57] [Server thread/INFO]: Stopping server
+[20:54:57] [Server thread/INFO]: Saving players
+[20:54:57] [Server thread/INFO]: Saving worlds
+[20:54:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:54:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:54:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:54:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:54:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:54:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:54:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:54:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:55:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
