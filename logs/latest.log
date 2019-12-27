@@ -1,33 +1,48 @@
-[14:13:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:13:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:13:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:13:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:13:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:13:57] [Server thread/INFO]: Starting minecraft server version 1.15.1
-[14:13:57] [Server thread/INFO]: Loading properties
-[14:13:57] [Server thread/INFO]: Default game type: SURVIVAL
-[14:13:57] [Server thread/INFO]: Generating keypair
-[14:13:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:13:58] [Server thread/INFO]: Using default channel type
-[14:13:59] [Server thread/INFO]: Preparing level "world"
-[14:14:00] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:14:48] [Server thread/INFO]: Loaded 6 recipes
-[14:14:50] [Server thread/INFO]: Loaded 825 advancements
-[14:14:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:14:55] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:55] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:55] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:55] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:55] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:56] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:56] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:56] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:56] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:56] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:56] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[14:14:56] [Server thread/INFO]: Preparing spawn area: 0%
-[14:14:57] [Server thread/INFO]: Preparing spawn area: 34%
-[14:14:58] [Server thread/INFO]: Time elapsed: 7265 ms
-[14:14:58] [Server thread/INFO]: Done (59.052s)! For help, type "help"
-[14:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
-[14:15:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
+[20:42:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:42:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:42:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:42:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:42:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:42:47] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[20:42:47] [Server thread/INFO]: Loading properties
+[20:42:47] [Server thread/INFO]: Default game type: SURVIVAL
+[20:42:47] [Server thread/INFO]: Generating keypair
+[20:42:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:42:50] [Server thread/INFO]: Using default channel type
+[20:42:51] [Server thread/INFO]: Preparing level "world"
+[20:42:54] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:44:40] [Server thread/INFO]: Loaded 6 recipes
+[20:44:42] [Server thread/INFO]: Loaded 825 advancements
+[20:44:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:52] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:52] [Server thread/INFO]: Preparing spawn area: 0%
+[20:44:53] [Server thread/INFO]: Preparing spawn area: 20%
+[20:44:54] [Server thread/INFO]: Preparing spawn area: 61%
+[20:44:55] [Server thread/INFO]: Time elapsed: 10942 ms
+[20:44:55] [Server thread/INFO]: Done (123.578s)! For help, type "help"
+[20:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[20:45:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16168ms or 323 ticks behind
+[20:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2805ms or 56 ticks behind
+[22:25:09] [User Authenticator #1/INFO]: UUID of player cicero_jr is ee09e6a5-35a8-4445-8345-acef5ced0a01
+[22:25:11] [Server thread/INFO]: cicero_jr[/86.191.145.69:53925] logged in with entity id 235 at (88.30000001192093, 11.0, 230.7755279012656)
+[22:25:11] [Server thread/INFO]: cicero_jr joined the game
+[22:25:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
+[22:25:50] [Server thread/INFO]: cicero_jr lost connection: Disconnected
+[22:25:50] [Server thread/INFO]: cicero_jr left the game
+[22:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32993ms or 659 ticks behind
